@@ -11,3 +11,6 @@ https://school.programmers.co.kr/learn/courses/30/lessons/120805
 
 ### 나이 출력
 https://school.programmers.co.kr/learn/courses/30/lessons/120820
+
+### 숫자 비교하기
+https://school.programmers.co.kr/learn/courses/30/lessons/120807
