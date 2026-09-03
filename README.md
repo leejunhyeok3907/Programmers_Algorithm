@@ -17,3 +17,6 @@ https://school.programmers.co.kr/learn/courses/30/lessons/120807
 
 ### 두 수의 합 구하기
 https://school.programmers.co.kr/learn/courses/30/lessons/120802
+
+### 두 수의 나눗셈
+https://school.programmers.co.kr/learn/courses/30/lessons/120806
