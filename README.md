@@ -26,3 +26,12 @@ https://school.programmers.co.kr/learn/courses/30/lessons/120829
 
 ### 짝수의 합
 https://school.programmers.co.kr/learn/courses/30/lessons/120831
+
+### 배열의 평균값
+https://school.programmers.co.kr/learn/courses/30/lessons/120817
+
+### 짝수와 홀수
+https://school.programmers.co.kr/learn/courses/30/lessons/12937
+
+### 평균 구하기
+https://school.programmers.co.kr/learn/courses/30/lessons/12944
